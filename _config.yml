@@ -1,1 +1,14 @@
-theme: jekyll-theme-name
+title: Danish Ajaib's Data Science Portfolio
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my Data Science portfolio! Here, you will find a collection of my projects, skills, and experiences that showcase my expertise and passion for data science.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://danish-ajaib.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-cayman
+
+# Social Links
+github_username: your-username
+linkedin_username: your-linkedin-username
+
+# Build settings
+markdown: kramdown
